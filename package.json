@@ -1,0 +1,14 @@
+{
+  "name": "mint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mint": "node src/mint.js"
+  },
+  "author": "SingularityNET",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.3.0"
+  }
+}
