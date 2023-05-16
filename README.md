@@ -7,9 +7,12 @@ NPM: 9.3.1
 npm install
 ```
 
-### Setup src/mint.js file
+### 2. Setup mint script
+```
+src/mint.js
+```
 
-### Mint tokens
+### 3. Mint tokens
 ```bash
 npm run mint
 ```
